@@ -4,4 +4,4 @@
 
 <head>
 
-playSound('file:///home/chronos/u-f1cb9bca7d8fc9fc2b1d0ccb2d7961a2c978c019/MyFiles/Downloads/Jojo%20Opening%207%20Great%20Days%20Full%20Theme%20(320%20%20kbps).mp3');
+<playSound>('file:///home/chronos/u-f1cb9bca7d8fc9fc2b1d0ccb2d7961a2c978c019/MyFiles/Downloads/Jojo%20Opening%207%20Great%20Days%20Full%20Theme%20(320%20%20kbps).mp3');>
