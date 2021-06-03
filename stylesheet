@@ -1,0 +1,13 @@
+html, body {
+	background: #00FFCE!important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'black ops one', sans-serif;
+	color:#67D72A;
+}
+
+p {
+	font-family: 'black ops one', sans-serif;
+	color: #0055FF;
+}
